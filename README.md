@@ -7,6 +7,7 @@
 #WEBSITE = "http://www.jepasa.com/"                         #
 #############################################################
 #
+
 The Automatic Email Signature Generator, by Jeferson Padilha, is licensed under
 the MIT License (MIT)
 
